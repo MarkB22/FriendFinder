@@ -1,0 +1,31 @@
+exports.friendList = [{
+  name:"Ahri",
+  photo:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIfAjh74G_EfCkfuK3PJ5VPjv2n0ubcLq0BiVRGu9dXiY7X-G-Ng",
+  scores:[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+   ]
+},{
+  name:"Zed",
+  photo:"http://img00.deviantart.net/2d74/i/2016/049/a/c/zed_fanart____by_orekigenya-d9s7aq7.jpg",
+  scores:[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+   ]
+}];
